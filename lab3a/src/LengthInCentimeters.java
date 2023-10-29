@@ -1,0 +1,3 @@
+interface LengthInCentimeters {
+    double getLength();
+}
